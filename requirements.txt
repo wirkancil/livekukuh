@@ -1,0 +1,4 @@
+requests
+elevenlabs>=0.2.26
+TikTokLive>=1.5.2
+beautifulsoup4
